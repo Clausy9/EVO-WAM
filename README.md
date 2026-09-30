@@ -8,7 +8,7 @@ Shiyang Zhou<sup>1,2,‡</sup>, Xionghao Wu<sup>3,‡</sup>, Wenbo Li<sup>4,†<
 
 ‡ Equal contribution · † Project lead · &#42; Corresponding author
 
-[![Paper](https://img.shields.io/badge/Paper-PDF-b23a2f?style=flat&labelColor=555555)](https://evo-wam.github.io/assets/paper.pdf)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b23a2f?style=flat&labelColor=555555)](https://arxiv.org/abs/2609.38057)
 [![Project](https://img.shields.io/badge/Project-Page-63b32e?style=flat&labelColor=555555)](https://evo-wam.github.io/)
 [![Demo](https://img.shields.io/badge/Demo-Video-387bb5?style=flat&labelColor=555555)](https://evo-wam.github.io/#overview)
 
@@ -64,3 +64,21 @@ For questions about EVO-WAM, contact **Shiyang Zhou** at [shiyangzhou@stu.hit.ed
 
 Project lead: **Wenbo Li** · [fenglinglwb@gmail.com](mailto:fenglinglwb@gmail.com)  
 Corresponding author: **Zhuotao Tian** · [tianzhuotao@hit.edu.cn](mailto:tianzhuotao@hit.edu.cn)
+
+## 📝 Citation
+
+If you find EVO-WAM useful in your research, please cite:
+
+```bibtex
+@misc{zhou2026evowamevolvingworldaction,
+      title={EVO-WAM: Evolving World Action Models through Video-Action Verification},
+      author={Shiyang Zhou and Xionghao Wu and Wenbo Li and Shenghe Zheng and Jiyao Zhang and Songsong Yu and Yijun Yang and Jianhui Liu and Haoze Sun and Senqiao Yang and Li Jiang and Jingyong Su and Haoyang Huang and Zhuotao Tian},
+      year={2026},
+      eprint={2609.38057},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2609.38057},
+}
+```
+
+[Download BibTeX](citation.bib)
