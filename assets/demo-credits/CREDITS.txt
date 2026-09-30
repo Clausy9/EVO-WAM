@@ -1,0 +1,14 @@
+Demo media credits
+
+Music: "Electrodoodle" by Kevin MacLeod (incompetech.com).
+Source: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200079
+License: Creative Commons Attribution 4.0, https://creativecommons.org/licenses/by/4.0/
+Changes: 46-second excerpt, volume adjustment, fades.
+
+Robot and light-bulb artwork: OpenMoji contributors.
+Source: https://openmoji.org/ ; https://github.com/hfg-gmuend/openmoji
+License: Creative Commons Attribution-ShareAlike 4.0, https://creativecommons.org/licenses/by-sa/4.0/
+Changes: animated placement and an adapted smiling expression. Adapted SVG artwork remains under CC BY-SA 4.0 and is provided in this folder.
+
+Fonts: Sora and Manrope, SIL Open Font License.
+Robot footage, generated trajectories and results: EVO-WAM project.

@@ -12,7 +12,7 @@ Shiyang Zhou<sup>1,2,‡</sup>, Xionghao Wu<sup>3,‡</sup>, Wenbo Li<sup>4,†<
 [![Project](https://img.shields.io/badge/Project-Page-63b32e?style=flat&labelColor=555555)](https://evo-wam.github.io/)
 [![Demo](https://img.shields.io/badge/Demo-Video-387bb5?style=flat&labelColor=555555)](https://evo-wam.github.io/#overview)
 
-**Code to be released.**
+Implementation & experimental details: [contact Shiyang Zhou](mailto:shiyangzhou@stu.hit.edu.cn).
 
 </div>
 
@@ -20,7 +20,7 @@ Shiyang Zhou<sup>1,2,‡</sup>, Xionghao Wu<sup>3,‡</sup>, Wenbo Li<sup>4,†<
 
 [![EVO-WAM demo: learning from verified imagination](assets/demo-cover.png)](https://evo-wam.github.io/#overview)
 
-[Watch the demo](https://evo-wam.github.io/#overview) · [Video file](https://evo-wam.github.io/assets/videos/overview.mp4) · [Before / after comparisons](https://evo-wam.github.io/#experiments)
+[Watch the demo](https://evo-wam.github.io/#overview) · [Video file](assets/demo.mp4) · [Before / after comparisons](https://evo-wam.github.io/#experiments) · [Media credits](assets/demo-credits/CREDITS.txt)
 
 ## ✨ Highlights
 
@@ -60,7 +60,7 @@ Simulation comparisons use the same initial scene and instruction. Real-robot vi
 
 ## 📧 Contact
 
-For questions about EVO-WAM, contact **Shiyang Zhou** at [shiyangzhou@stu.hit.edu.cn](mailto:shiyangzhou@stu.hit.edu.cn).
+For questions about implementation and experimental details, contact **Shiyang Zhou** at [shiyangzhou@stu.hit.edu.cn](mailto:shiyangzhou@stu.hit.edu.cn).
 
 Project lead: **Wenbo Li** · [fenglinglwb@gmail.com](mailto:fenglinglwb@gmail.com)  
 Corresponding author: **Zhuotao Tian** · [tianzhuotao@hit.edu.cn](mailto:tianzhuotao@hit.edu.cn)

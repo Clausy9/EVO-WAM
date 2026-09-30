@@ -1,0 +1,112 @@
+WEBVTT
+
+1
+00:00:46.854 --> 00:00:52.084
+Can a robot learn from its own imagination,
+without new expert demonstrations?
+
+2
+00:00:54.954 --> 00:00:58.309
+Consider placing two ducks
+into their matching bowls.
+
+3
+00:01:02.254 --> 00:01:07.459
+The earlier policy fails to place the
+pink duck and does not complete the task.
+
+4
+00:01:11.279 --> 00:01:16.434
+Instead of collecting more demonstrations,
+we generate candidate experience.
+
+5
+00:01:17.404 --> 00:01:21.534
+One scene, multiple imagined
+video-action trajectories.
+
+6
+00:01:22.779 --> 00:01:27.009
+Each chunk predicts future frames,
+actions, and a robot state.
+
+7
+00:01:28.454 --> 00:01:32.304
+The next chunk uses generated
+history and the predicted state,
+
+8
+00:01:32.304 --> 00:01:34.784
+with the initial frame as an anchor.
+
+9
+00:01:36.129 --> 00:01:40.859
+No candidate actions are executed
+externally during generation.
+
+10
+00:01:41.454 --> 00:01:46.409
+The vision-language model checks goal
+completion and object consistency.
+
+11
+00:01:47.254 --> 00:01:50.734
+The blue duck misses its
+bowl, so the placement fails.
+
+12
+00:01:52.454 --> 00:01:55.654
+A second duck appears
+while the original remains.
+
+13
+00:01:55.654 --> 00:01:58.409
+Visual voting rejects this candidate.
+
+14
+00:01:59.579 --> 00:02:04.859
+An inverse dynamics model reconstructs
+actions from the generated video.
+
+15
+00:02:05.679 --> 00:02:11.234
+Here, candidate three looks promising, but
+its action mismatch exceeds the threshold.
+
+16
+00:02:13.279 --> 00:02:17.859
+After action verification, visual
+votes confirm the endpoints.
+
+17
+00:02:18.279 --> 00:02:20.734
+Only candidate four is retained.
+
+18
+00:02:21.704 --> 00:02:25.504
+Verified prefixes are pooled
+across tasks and rounds,
+
+19
+00:02:25.504 --> 00:02:29.234
+then mixed with original data
+to train a shared policy.
+
+20
+00:02:32.304 --> 00:02:37.109
+Now, the updated policy places both
+ducks into their matching bowls.
+
+21
+00:02:40.579 --> 00:02:44.834
+This is a new physical execution,
+not the imagined rollout.
+
+22
+00:02:50.654 --> 00:02:53.354
+The key is not just imagining success,
+
+23
+00:02:53.354 --> 00:02:57.284
+but turning verified imagination
+into training experience.
