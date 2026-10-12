@@ -10,17 +10,19 @@ Shiyang Zhou<sup>1,2,‡</sup>, Xionghao Wu<sup>3,‡</sup>, Wenbo Li<sup>4,†<
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-b23a2f?style=flat&labelColor=555555)](https://arxiv.org/abs/2609.38057)
 [![Project](https://img.shields.io/badge/Project-Page-63b32e?style=flat&labelColor=555555)](https://evo-wam.github.io/)
-[![Demo](https://img.shields.io/badge/Demo-Video-387bb5?style=flat&labelColor=555555)](https://evo-wam.github.io/#overview)
+[![Demo](https://img.shields.io/badge/Demo-Video-387bb5?style=flat&labelColor=555555)](#demo)
 
 Implementation & experimental details: [contact Shiyang Zhou](mailto:shiyangzhou@stu.hit.edu.cn).
 
 </div>
 
+<a id="demo"></a>
+
 ## 🎬 Demo
 
-[![EVO-WAM demo: learning from verified imagination](assets/demo-cover.png)](https://evo-wam.github.io/#overview)
+https://github.com/user-attachments/assets/37eeb582-935b-4a8e-b1f9-641e8412616d
 
-[Watch the demo](https://evo-wam.github.io/#overview) · [Video file](assets/demo.mp4) · [Before / after comparisons](https://evo-wam.github.io/#experiments) · [Media credits](assets/demo-credits/CREDITS.txt)
+[View on project page](https://evo-wam.github.io/#overview) · [Video file](assets/demo.mp4) · [Before / after comparisons](https://evo-wam.github.io/#experiments) · [Media credits](assets/demo-credits/CREDITS.txt)
 
 ## ✨ Highlights
 
