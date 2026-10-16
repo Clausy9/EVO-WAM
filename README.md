@@ -16,6 +16,14 @@ Implementation & experimental details: [contact Shiyang Zhou](mailto:shiyangzhou
 
 </div>
 
+## 📰 News
+
+- **2026-10-15:** Thanks to the community for reproducing EVO-WAM!
+
+  **👉 [Community Reproduction: open-evo-wam](https://github.com/XiaohanLei/open-evo-wam)**
+
+  The official release is pending approval, and the release date is TBD.
+
 <a id="demo"></a>
 
 ## 🎬 Demo
